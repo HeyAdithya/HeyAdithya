@@ -1,3 +1,4 @@
+<div align="center">
 <p align="left">
 🙎🏻 𝗠𝗬 𝗣𝗥𝗢𝗙𝗜𝗟𝗘
 <p align="left">
@@ -12,7 +13,7 @@
 • 𝚆𝚘𝚛𝚔 : ʙᴜꜱɪɴᴇꜱꜱ
 <p align="left">
 - ᴛᴇʟᴇɢʀᴀᴍ ᴏɴʟʏ ᴀᴄᴛɪᴠᴇ
-
+</div>
 <p align="center">&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HeyAdithya&&show_icons=true&theme=aura" alt="HeyAdithya"/></p>
 <p align="center">
