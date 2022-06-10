@@ -1,4 +1,4 @@
-<div align="center"> <p align="left">
+<p align="left">
 🙎🏻 𝗠𝗬 𝗣𝗥𝗢𝗙𝗜𝗟𝗘
 <p align="left">
 • 𝙼𝚢 𝙽𝚊𝚖𝚎 : ᴀᴅɪᴛʏᴀ ᴀʀ ()
@@ -11,7 +11,7 @@
 <p align="left">
 • 𝚆𝚘𝚛𝚔 : ʙᴜꜱɪɴᴇꜱꜱ
 <p align="left">
-- ᴛᴇʟᴇɢʀᴀᴍ ᴏɴʟʏ ᴀᴄᴛɪᴠᴇ </div>
+- ᴛᴇʟᴇɢʀᴀᴍ ᴏɴʟʏ ᴀᴄᴛɪᴠᴇ </p>
 <p align="center">&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HeyAdithya&&show_icons=true&theme=aura" alt="HeyAdithya"/></p>
 <p align="center">
@@ -20,7 +20,6 @@
 🏅 𝗧𝗥𝗢𝗣𝗛𝗜𝗘𝗦
 </p>
 <p align="center">
-<img width="10%" src="https://telegra.ph/file/b490b39f93ec158ddf21f.png" /> <p align="center">
-<img width="10%" src="https://telegra.ph/file/abafe2bd3d3bbe1e8f740.png" />
-</p>
+<img width="15%" src="https://telegra.ph/file/b490b39f93ec158ddf21f.png" />
+<img width="15%" src="https://telegra.ph/file/abafe2bd3d3bbe1e8f740.png" />
 </p>
