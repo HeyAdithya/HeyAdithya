@@ -1,6 +1,5 @@
   <p align="center">
 🙎🏻 𝗠𝗬 𝗣𝗥𝗢𝗙𝗜𝗟𝗘
-  <p align="center">
 • 𝙼𝚢 𝙽𝚊𝚖𝚎 : ᴀᴅɪᴛʏᴀ ᴀʀ ()
   <p align="center">
 • 𝙱𝚘𝚛𝚗 : 03-03-1998
