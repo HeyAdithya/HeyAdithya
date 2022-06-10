@@ -22,8 +22,8 @@
 🏆 𝐓𝐑𝐎𝐏𝐇𝐈𝐄𝐒 🏆
 </p>
 <p align="center">
-<img width="20%" src="https://telegra.ph/file/abafe2bd3d3bbe1e8f740.png" /> <p align="center">
-<img width="20%" src="" />
+<img width="20%" src="https://telegra.ph/file/b490b39f93ec158ddf21f.png" /> <p align="center">
+<img width="20%" src="https://telegra.ph/file/abafe2bd3d3bbe1e8f740.png" />
 </p>
 </p>
 
