@@ -14,7 +14,7 @@
 - ᴛᴇʟᴇɢʀᴀᴍ ᴏɴʟʏ ᴀᴄᴛɪᴠᴇ
 
 <p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HeyAdithya&&show_icons=true&theme=aura" alt="MrMKN"/></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HeyAdithya&&show_icons=true&theme=aura" alt="HeyAdithya"/></p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeyAdithya&layout=compact&theme=jolly" align="center">
 <p align="center">
 
