@@ -1,5 +1,5 @@
 <p align="left">
-𝗠𝗬 𝗣𝗥𝗢𝗙𝗜𝗟𝗘
+📄 𝗠𝗬 𝗣𝗥𝗢𝗙𝗜𝗟𝗘
 <p align="left">
 • 𝙼𝚢 𝙽𝚊𝚖𝚎 : ᴀᴅɪᴛʏᴀ ᴀʀ ()
 <p align="left">
@@ -19,12 +19,10 @@
 <p align="center">
 
 
-🏆 𝐓𝐑𝐎𝐏𝐇𝐈𝐄𝐒 🏆
+🏅 𝗧𝗥𝗢𝗣𝗛𝗜𝗘𝗦
 </p>
 <p align="center">
 <img width="20%" src="https://telegra.ph/file/b490b39f93ec158ddf21f.png" /> <p align="center">
 <img width="20%" src="https://telegra.ph/file/abafe2bd3d3bbe1e8f740.png" />
 </p>
 </p>
-
-Thanks for All
