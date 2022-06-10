@@ -22,7 +22,7 @@
 🏆 𝐓𝐑𝐎𝐏𝐇𝐈𝐄𝐒 🏆
 </p>
 <p align="center">
-<img width="50%" src="https://github.com/HeyAdithya?achievement=pull-shark&tab=achievements" />
+<img width="50%" src="https://telegra.ph/file/028e826569f1252dd1c3e.jpg" />
 </p>
 
 Thanks for All
