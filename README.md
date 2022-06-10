@@ -1,7 +1,7 @@
 <p align="left">
 𝗠𝗬 𝗣𝗥𝗢𝗙𝗜𝗟𝗘
 <p align="left">
-• 𝙼𝚢 𝙽𝚊𝚖𝚎 : ᴀᴅɪᴛʏᴀ ᴀʀ (𝙼𝙺𝙽)
+• 𝙼𝚢 𝙽𝚊𝚖𝚎 : ᴀᴅɪᴛʏᴀ ᴀʀ ()
 <p align="left">
 • 𝙱𝚘𝚛𝚗 : 03</>03</>1998
 <p align="left">
@@ -22,7 +22,7 @@
 🏆 𝐓𝐑𝐎𝐏𝐇𝐈𝐄𝐒 🏆
 </p>
 <p align="center">
-<img width="50%" src="https://github-profile-trophy.vercel.app/?username=HeyAdithya&theme=darkhub" />
+<img width="50%" src="" />
 </p>
 
 Thanks for All
