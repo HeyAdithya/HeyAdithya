@@ -23,6 +23,6 @@
 🏅 𝗧𝗥𝗢𝗣𝗛𝗜𝗘𝗦
   
 <p align="center">
-<img width="15%" src="https://telegra.ph/file/b490b39f93ec158ddf21f.png" />
-<img width="15%" src="https://telegra.ph/file/abafe2bd3d3bbe1e8f740.png" />
+<img width="13%" src="https://telegra.ph/file/b490b39f93ec158ddf21f.png" />
+<img width="13%" src="https://telegra.ph/file/abafe2bd3d3bbe1e8f740.png" />
 </p>
