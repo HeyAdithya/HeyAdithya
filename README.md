@@ -1,10 +1,10 @@
 
 ###🙎🏻 𝗠𝗬 𝗣𝗥𝗢𝗙𝗜𝗟𝗘
-  <p align="left">• ᴍʏ ɴᴀᴍᴇ : 𝙰𝚍𝚒𝚝𝚑𝚢𝚊 (HeyAdithya)
-  <p align="left">• ʙᴏʀɴ : 𝟶𝟹 𝙼𝚊𝚛𝚌𝚑 𝟷𝟿𝟿𝟾   
-  <p align="left">• ᴘʟᴀᴄᴇ : 𝚃𝚊𝚖𝚒𝚕𝙽𝚊𝚍𝚞
-  <p align="left">• ʟᴀɴɢᴜᴀɢᴇ : 𝚃𝚊𝚖𝚒𝚕  
-  <p align="left">• ᴡᴏʀᴋ : 𝙱𝚞𝚜𝚒𝚗𝚎𝚜𝚜
+  <p align="left">✧ ᴍʏ ɴᴀᴍᴇ : 𝙰𝚍𝚒𝚝𝚑𝚢𝚊 (HeyAdithya)
+  <p align="left">✧ ʙᴏʀɴ : 𝟶𝟹 𝙼𝚊𝚛𝚌𝚑 𝟷𝟿𝟿𝟾   
+  <p align="left">✧ ᴘʟᴀᴄᴇ : 𝚃𝚊𝚖𝚒𝚕𝙽𝚊𝚍𝚞
+  <p align="left">✧ ʟᴀɴɢᴜᴀɢᴇ : 𝚃𝚊𝚖𝚒𝚕  
+  <p align="left">✧ ᴡᴏʀᴋ : 𝙱𝚞𝚜𝚒𝚗𝚎𝚜𝚜
   <p align="left">- ᴛᴇʟᴇɢʀᴀᴍ ᴏɴʟʏ ᴀᴄᴛɪᴠᴇ
 
 ### Telegram 
