@@ -6,7 +6,7 @@
   <p align="left">✧ ᴡᴏʀᴋ : 𝙱𝚞𝚜𝚒𝚗𝚎𝚜𝚜
   <p align="left">- ᴛᴇʟᴇɢʀᴀᴍ ᴏɴʟʏ ᴀᴄᴛɪᴠᴇ
 
-### Telegram 
+### <img width="8%" src="https://telegra.ph/file/ac226529e4b1e0315275e.png" /> 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠
 
 <p align="center">
 <a href="https://t.me/BharatTorrentPro"><img width="13%" src="https://telegra.ph/file/c6f9007f957de9506f1d2.png" /></a> ɢʀᴏᴜᴘ
