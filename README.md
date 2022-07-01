@@ -9,9 +9,9 @@
 ### Telegram 
 
 <p align="center">
-<img width="13%" src="https://telegra.ph/file/c6f9007f957de9506f1d2.png" /> [![ɢʀᴏᴜᴘ](https://t.me/BharatTorrentPro)]
+<a href="https://t.me/BharatTorrentPro"> <img width="13%" src="https://telegra.ph/file/c6f9007f957de9506f1d2.png" /> ɢʀᴏᴜᴘ</a>
 </p>
-<img width="13%" src="https://telegra.ph/file/e26afa95706396d805668.png" /> ᴄʜᴀɴɴᴇʟ
+<a href="https://t.me/VijayAdithyaa"><img width="13%" src="https://telegra.ph/file/e26afa95706396d805668.png" /> ᴄʜᴀɴɴᴇʟ</a>
 
 
 
