@@ -1,5 +1,4 @@
-
-###🙎🏻 𝗠𝗬 𝗣𝗥𝗢𝗙𝗜𝗟𝗘
+### 🙎🏻 𝗠𝗬 𝗣𝗥𝗢𝗙𝗜𝗟𝗘
   <p align="left">✧ ᴍʏ ɴᴀᴍᴇ : 𝙷𝚎𝚢 𝙰𝚍𝚒𝚝𝚑𝚢𝚊
   <p align="left">✧ ʙᴏʀɴ : 𝟶𝟹 𝙼𝚊𝚛𝚌𝚑 𝟷𝟿𝟿𝟾   
   <p align="left">✧ ᴘʟᴀᴄᴇ : 𝚃𝚊𝚖𝚒𝚕𝙽𝚊𝚍𝚞
@@ -10,7 +9,7 @@
 ### Telegram 
 
 <p align="center">
-[ <img width="13%" src="https://telegra.ph/file/c6f9007f957de9506f1d2.png" /> ɢʀᴏᴜᴘ]: https://t.me/BharatTorrentPro
+<img width="13%" src="https://telegra.ph/file/c6f9007f957de9506f1d2.png" /> [ɢʀᴏᴜᴘ]: https://t.me/BharatTorrentPro
 </p>
 <img width="13%" src="https://telegra.ph/file/e26afa95706396d805668.png" /> ᴄʜᴀɴɴᴇʟ
 
