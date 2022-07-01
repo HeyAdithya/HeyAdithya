@@ -16,7 +16,7 @@
 </p>
 
 
-### ⚡️ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗨𝗦
+### <img width="8%" src="https://flyclipart.com/github-icon-github-logo-png-813499" /> 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗨𝗦
   
 
 ![Github Stats](https://github-stats-alpha.vercel.app/api/?username=HeyAdithya&tc=333&ic=333)
