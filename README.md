@@ -9,10 +9,10 @@
 ### ❯ 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠
 
 <p align="center">
-<a href="https://t.me/BharatTorrentPro"><img width="13%" src="https://telegra.ph/file/c6f9007f957de9506f1d2.png" /></a> ɢʀᴏᴜᴘ
+<a href="https://t.me/BharatTorrentPro"><img width="13%" src="https://telegra.ph/file/c6f9007f957de9506f1d2.png" /></a>
 </p>
 <p align="center">
-<a href="https://t.me/VijayAdithyaa"><img width="13%" src="https://telegra.ph/file/e26afa95706396d805668.png" /></a> ᴄʜᴀɴɴᴇʟ
+<a href="https://t.me/VijayAdithyaa"><img width="13%" src="https://telegra.ph/file/e26afa95706396d805668.png" /></a>
 </p>
 
 
