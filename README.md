@@ -9,19 +9,16 @@
 ### ❯ 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠
 
 <p align="center">
-<a href="https://t.me/BharatTorrentPro"><img width="13%" src="https://telegra.ph/file/2827f21997a785e28749f.png" /></a>
-<a href="https://t.me/VijayAdithyaa"><img width="13%" src="https://telegra.ph/file/e26afa95706396d805668.png" /></a>
+<a href="https://t.me/BharatTorrentPro"><img width="12%" src="https://telegra.ph/file/2827f21997a785e28749f.png" /></a>
+<a href="https://t.me/VijayAdithyaa"><img width="12%" src="https://telegra.ph/file/e26afa95706396d805668.png" /></a>
 </p>
 
 
 ### ❯ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗨𝗦
-  
-<p align="center">
-  
-![Github Stats](https://github-stats-alpha.vercel.app/api/?username=HeyAdithya&tc=333&ic=333)
-  
-</p>
 
+<p align="center">
+[Github Stats](https://github-stats-alpha.vercel.app/api/?username=HeyAdithya&tc=333&ic=333)
+</p>
 
 ### ❯ 𝗧𝗥𝗢𝗣𝗛𝗜𝗘𝗦
   
