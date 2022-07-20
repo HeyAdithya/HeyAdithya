@@ -16,8 +16,9 @@
 
 ### ❯ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗨𝗦
   
-
+<p align="center">
 ![Github Stats](https://github-stats-alpha.vercel.app/api/?username=HeyAdithya&tc=333&ic=333)
+</p>
 
 
 ### ❯ 𝗧𝗥𝗢𝗣𝗛𝗜𝗘𝗦
