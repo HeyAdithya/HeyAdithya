@@ -11,7 +11,7 @@
 <p align="center">
 <a href="https://t.me/BharatTorrentPro"><img width="12%" src="https://telegra.ph/file/2827f21997a785e28749f.png" /></a>
 <a href="https://t.me/VijayAdithyaa"><img width="12%" src="https://telegra.ph/file/e26afa95706396d805668.png" /></a>
-</p>
+</p> 
 
 
 ### ❯ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗨𝗦
